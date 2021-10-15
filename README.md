@@ -8,7 +8,7 @@
 * React port default = http://localhost:3000/
 * django port default = http://localhost:8000/
 
-#Git Clone:
+# Git Clone:
 
 *
                         git clone https://github.com/konrawit01/Selected-Topics-Project.git
