@@ -3,26 +3,26 @@
 
 
 :root {
-  --color-main: #f68657;
+  --color-main: #fdff79;
   --color-text: #383a3f;
   --color-dark: #1f2124;
-  --color-gray: #677;
-  --color-bg: #f3f6f9;
-  --color-light: #acb4bd;
-  --color-lighter: #f9f9f9;
+  --color-gray: rgb(75, 163, 163);
+  --color-bg: #f0f5fa;
+  --color-light: #262d36;
+  --color-lighter: #695454;
   --color-white: #fff;
   --color-border:#e0e3e6;
 }
 
 .dark {
-  --color-main: #f68657;
-  --color-text: #d6d1d1;
-  --color-dark: #f5f6f7;
-  --color-gray: #999;
-  --color-bg: #1f2124;
-  --color-lighter: #292a2c;
-  --color-white: #2e3235;
-  --color-border:#252629;
+  --color-main: #423ff8;
+  --color-text: #ebf0f1;
+  --color-dark: #5add40;
+  --color-gray: rgb(63, 204, 240);
+  --color-bg: #969696;
+  --color-lighter: #14171f;
+  --color-white: #474e52;
+  --color-border:#615555;
 }
 
 /* BASE STYLES */
@@ -195,6 +195,7 @@ a {
 
 
 /*==============================
+
 =>  Note Styles
 ================================*/
 

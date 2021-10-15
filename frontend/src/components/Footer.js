@@ -1,12 +1,12 @@
 import React from 'react'
 
-const Header = () => {
+const Footer = () => {
 
     return (
         <div className="app-header">
-            <h1>My Note</h1>
+            <h3>Mynote @2021</h3>
         </div>
     )
 }
 
-export default Header
+export default Footer

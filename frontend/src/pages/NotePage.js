@@ -78,7 +78,7 @@ const NotePage = ({ match, history }) => {
                 {noteId !== 'new' ? (
                     <button onClick={deleteNote}>Delete</button>
                 ) : (
-                    <button onClick={handleSubmit}>Done</button>
+                    <button onClick={handleSubmit}>Save</button>
                 )}
 
             </div>
