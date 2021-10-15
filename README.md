@@ -9,10 +9,11 @@
 * django port default = http://localhost:8000/
 
 #Git Clone:
+
 *
-            git clone https://github.com/konrawit01/Selected-Topics-Project.git
+                        git clone https://github.com/konrawit01/Selected-Topics-Project.git
 *
-            cd Selected-Topics-Project
+                        cd Selected-Topics-Project
             
 # การเข้าไฟล์ Backend และขั้นตอนการติดตั้งเครื่องมือ
 
