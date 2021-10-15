@@ -2,15 +2,25 @@
 
 # การเข้าไฟล์ Backend
 
-* cd MYNOTE
-* virtualenv env
-* CMD: .\env\scripts\activate
-* pip install -r requirements.txt
-* python manage.py runserver
+* CMD:
+* 
+            cd Mynote
+*
+            virtualenv env
+*
+            .\env\scripts\activate
+* 
+            pip install -r requirements.txt
 
-# Frontend
+* 
+            python manage.py runserver
 
-* npm install 
-* npm start
+# การเข้าไฟล์ Frontend
+
+*           cd frontend
+* 
+            npm install 
+* 
+            npm start
 
 
