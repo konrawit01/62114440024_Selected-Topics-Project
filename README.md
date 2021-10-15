@@ -13,8 +13,7 @@
 * Django
 
 * CMD:
-* 
-            cd Mynote
+
 *
             virtualenv env
 *
